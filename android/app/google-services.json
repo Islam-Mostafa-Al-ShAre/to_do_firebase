@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "821927825443",
+    "project_id": "fir-30dab",
+    "storage_bucket": "fir-30dab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821927825443:android:766c3adcdada4a3853a196",
+        "android_client_info": {
+          "package_name": "com.islam.loginfirebase.login_firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821927825443-m2uec3dp6grtghp9vtkkq35egiko55gf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islam.loginfirebase.login_firebase1",
+            "certificate_hash": "488b8cc53ed7ed19e099d9066e2247ca6125b3b0"
+          }
+        },
+        {
+          "client_id": "821927825443-cksj9osuddupk1knnm39gav5vvrkeoqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5pmZSrMsYJQHk2C7VRrvCqQ5rUR9HsJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821927825443-cksj9osuddupk1knnm39gav5vvrkeoqb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821927825443-h9u021ej7gtt15c9c5b5oqi724losoc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.islam.loginfirebase.loginFirebase1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821927825443:android:2561fb12eed77ec653a196",
+        "android_client_info": {
+          "package_name": "com.islam.todo.to_do_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821927825443-cksj9osuddupk1knnm39gav5vvrkeoqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5pmZSrMsYJQHk2C7VRrvCqQ5rUR9HsJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821927825443-cksj9osuddupk1knnm39gav5vvrkeoqb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821927825443-h9u021ej7gtt15c9c5b5oqi724losoc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.islam.loginfirebase.loginFirebase1.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
